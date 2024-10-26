@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Explora el Mundo del Nu Metal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Fondo claro */
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: yellow;
+            text-shadow: 1px 1px 2px black; /* Sombra para mayor efecto */
+        }
+        p {
+            color: red;
+            font-size: 1.1em;
+        }
+        .representantes {
+            background-color: green;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            transition: background-color 0.3s; /* Transición suave */
+        }
+        .representantes:hover {
+            background-color: #4caf50; /* Cambio de color al pasar el mouse */
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra de imagen */
+        }
+        ol {
+            list-style-type: decimal; /* Estilo de lista numerada */
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 15px; /* Espaciado entre los elementos de la lista */
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Explora el Mundo del Nu Metal</h1>
+    
+    <h2>Lugares para Visitar Relacionados con Nu Metal</h2>
+    <ol>
+        <li>
+            <h2>Hollywood, California</h2>
+            <p>La cuna de muchas bandas de nu metal como Korn y Linkin Park. No te pierdas el famoso Whisky a Go Go.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Whisky_a_Go_Go_exterior.jpg/1024px-Whisky_a_Go_Go_exterior.jpg" alt="Whisky a Go Go">
+        </li>
+        <li>
+            <h2>San Diego, California</h2>
+            <p>Conocido por su vibrante escena musical, San Diego ha sido un lugar clave para muchas giras de nu metal.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/San_Diego_skyline.jpg/1024px-San_Diego_skyline.jpg" alt="San Diego Skyline">
+        </li>
+        <li>
+            <h2>Detroit, Michigan</h2>
+            <p>Un lugar emblemático donde se han grabado muchos álbumes importantes de nu metal. Visita el famoso Fox Theatre.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fox_Theatre_Detroit.jpg/1024px-Fox_Theatre_Detroit.jpg" alt="Fox Theatre Detroit">
+        </li>
+    </ol>
+    <h2>Artistas Representativos del Nu Metal</h2>
+    <ol>
+        <li>
+            <h2>PAPULANDIAAW</h2>
+            <p>La península de Papú, en Nueva Guinea, es el lugar donde los papus viven y prosperan.</p>
+            <h3 class="representantes">Representantes: Mr. Graso</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Map_of_Paedophryne_localities_2.png/1024px-Map_of_Paedophryne_localities_2.png" alt="Mapa de Papú">
+        </li>
+        <li>
+            <h2>ESO TILIN'S HOUSE</h2>
+            <p>A perfect place to dance.</p>
+            <h3 class="representantes">Representantes: Eso Tilin</h3>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-tree.png" alt="Imagen de Eso Tilin">
+        </li>
+        <li>
+            <h2>PLANTESAPOTASIO</h2>
+            <p>El papu supremo vive en este lugar, lo juro por Eso Tilin.</p>
+            <h3 class="representantes">Representantes: Potaxia, Jiafei, Ternura68</h3>
+            <ol>
+                <li>Papu</li>
+                <li>Xdddd</li>
+                <li>ElPapu</li>
+            </ol>
+            <img src="https://cdn.kastatic.org/wikipedia/commons/thumb/a/ac/Another_avatar_image.png/1024px-Another_avatar_image.png" alt="Imagen de Plantesapotacio">
+        </li>
+    </ol>
+</body>
+</html>
